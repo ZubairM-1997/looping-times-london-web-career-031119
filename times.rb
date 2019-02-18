@@ -1,5 +1,6 @@
 def using_times
-	#your code here
+	counter = 0 
+	times do 
 end
 
 
